@@ -1,0 +1,25 @@
+.obr_c_1 {
+    min-width: 100vw;
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    transition: all 1s ease; 
+}
+.obr_c_1_in{
+    z-index: 4;
+    position: absolute;
+    overflow: hidden;
+    width: 800px;
+    height: max-content;
+    
+    transition: all 0.7s ease; 
+
+}
+
+.obr_1_block-1{
+    margin-top: 20px;
+    height: 500px;
+    background-color: black;
+    transform: rotateY(90deg);
+    transition: all 1s;
+}
