@@ -1,6 +1,6 @@
 window.onload = function()
 {
-snow(2);
+snow(1);
 }
 function snow(id)
 {
