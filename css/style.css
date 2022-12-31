@@ -1,0 +1,31 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    background-color: rgb(36, 36, 36);
+    height: auto;
+}
+a{
+    color: #000;
+    text-decoration:none;
+}
+button{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    cursor: pointer;
+    padding: 0px;
+    margin: 0px;
+}
+button :active{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+.block_bg{
+    min-width: 100vw;
+    height: 100vh;
+    background: rgb(49, 49, 49);
+    display: flex;
+    justify-content: center;
+}
+
